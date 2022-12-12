@@ -1,4 +1,4 @@
 ## YetiCave
 
 My educational project (PHP backend) from HTMLAcademy. 
-YetiCave is a online auction of ski equipment.
+YetiCave is online auction of ski equipment.
